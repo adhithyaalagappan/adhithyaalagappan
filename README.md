@@ -1,4 +1,4 @@
-# Hi, I'm Adithya 👋
+# Hi, I'm Adhithya 👋
 
 💻 I write code.
 🐛 The bugs write themselves.
